@@ -1,8 +1,8 @@
 1)Commit the code in the respective files
 
-![Screenshot 2025-03-07 220125](https://github.com/user-attachments/assets/03f0ad33-4737-4d60-b10b-09a97ffd9917)
+![Screenshot 2025-03-07 220125](https://github.com/user-attachments/assets/98e0f866-5b5b-4b8a-965b-672772f1c4bc)
 
-![Screenshot 2025-03-07 220136](https://github.com/user-attachments/assets/17d29013-d504-4087-9e8c-5b74c6bbdd63)
+![Screenshot 2025-03-07 220136](https://github.com/user-attachments/assets/14404b35-7d7e-4eed-8d94-c642e79138d9)
 
 
 2)personal-api.py
