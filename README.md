@@ -54,9 +54,9 @@
 
 11)Docker hub repositories   
 
-![Screenshot 2025-03-07 220455](https://github.com/user-attachments/assets/d91c14ac-6ba5-4267-9db5-511bb88fdcb2)
+![Screenshot 2025-03-07 220455](https://github.com/user-attachments/assets/687ae017-627b-499f-a285-a2f3ec91866d)
 
-![Screenshot 2025-03-07 220510](https://github.com/user-attachments/assets/764685f4-fbfe-4039-a39a-466c7aa9e46e)
+![Screenshot 2025-03-07 220510](https://github.com/user-attachments/assets/f84fabba-e594-4394-8f39-ce7c7f70b692)
 
 
 12)Output screenshots    
