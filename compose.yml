@@ -1,1 +1,20 @@
-Update this file to add the content
+version: '3'
+
+services:
+  personal-api:
+    image: priyadharshini27/22it034-personal-api
+    ports:
+      - "5003:5000"
+    restart: always  
+
+  ml-model:
+    image: priyadharshini27/22it034-ml-model
+    ports:
+      - "5001:5000"
+    restart: always  
+
+  friend-service:
+    image: boopanapriya/22it005-ml-model
+    ports:
+      - "5002:5000"
+    restart: always
