@@ -3,7 +3,9 @@
 
 commited
 
-![Screenshot 2025-03-09 155008](https://github.com/user-attachments/assets/af2f4cdc-1975-4e77-9fef-0ef0ec950bf4)
+![Screenshot 2025-03-09 161035](https://github.com/user-attachments/assets/45dd5253-f28d-4ff8-bd26-b48526f26298)
+
+![Screenshot 2025-03-07 220125 png(1)](https://github.com/user-attachments/assets/06087f5a-e291-4653-a1d2-10700c591842)
 
 
 ## 2 Screenshots and commands that you used to build the docker image. Pls note the image name should be `Reg-Number-personal-api(Example: 1214214-personal-api)`
