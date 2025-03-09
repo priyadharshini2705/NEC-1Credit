@@ -1,7 +1,7 @@
 # Need the below mentioned details as the submission
 ## 1 Commit the code in the respective files
 
-commited
+commited 
 
 ![Screenshot 2025-03-09 161035](https://github.com/user-attachments/assets/45dd5253-f28d-4ff8-bd26-b48526f26298)
 
